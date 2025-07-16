@@ -4,8 +4,8 @@ This is a project created by AEMY.
 
 ## Environments
 
-- Preview: https://main--blefebvre-2025--aemysites.aem.page/
-- Live: https://main--blefebvre-2025--aemysites.aem.live/
+- Preview: https://main--blefebvre-250716--aemysites.aem.page/
+- Live: https://main--blefebvre-250716--aemysites.aem.live/
 
 ## Installation
 
